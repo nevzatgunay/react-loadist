@@ -1,0 +1,30 @@
+{
+  "name": "@nevzatgunay/react-loadist",
+  "version": "0.1.0",
+  "description": "A zero dependent React Loading library",
+  "license": "MIT",
+  "repository": "https://github.com/nevzatgunay/react-loadist",
+  "author": {
+    "name": "Nevzat Günay",
+    "url": "https://nevzatgunay.github.com"
+  },
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/nevzatgunay/react-loadist/issues"
+  },
+  "homepage": "https://github.com/nevzatgunay/react-loadist",
+  "keywords": [
+    "react loader",
+    "loader",
+    "react spinner",
+    "spinner",
+    "nevzatgunay"
+  ],
+  "devDependencies": {
+    "prettier": "1.15.3"
+  },
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
